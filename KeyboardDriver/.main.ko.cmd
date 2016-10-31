@@ -1,0 +1,1 @@
+cmd_/home/ahmedelgamal/Desktop/KeyboardDriver/main.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-95-generic/scripts/module-common.lds --build-id  -o /home/ahmedelgamal/Desktop/KeyboardDriver/main.ko /home/ahmedelgamal/Desktop/KeyboardDriver/main.o /home/ahmedelgamal/Desktop/KeyboardDriver/main.mod.o
